@@ -1,16 +1,18 @@
-## Hi there 👋
+### Olá! 👋 Sou o Icaro Ferreira
 
-<!--
-**IcaroFeroliv/IcaroFeroliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de software e especialista BIM, unindo engenharia e tecnologia para criar ferramentas, automações e sistemas robustos.
 
-Here are some ideas to get you started:
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 💼 Desenvolvendo soluções e plugins C# para o setor de projetos e construção
+- 💡 Foco em arquitetura de software, Clean Code e testes automatizados (TDD/xUnit)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 Tecnologias e Ferramentas
+- **Linguagens e Frameworks:** C#, .NET (WPF, MVVM, Blazor), Python
+- **BIM & CAD:** API do Revit, Navisworks, AutoLISP, AutoCAD
+- **Bancos de Dados:** PostgreSQL (Supabase), SQLite, Entity Framework Core
+
+#### 🚀 Projetos em Destaque
+- **GiroCar ERP:** Sistema web de gestão construído com Python e testes unitários.
+- **GotaSix:** Aplicação de monitoramento de consumo de água usando Blazor WebAssembly.
+- **Extrair_ACO:** Plugin integrado ao AutoCAD para exportação direta de tabelas de armaduras para o Excel.
+- **Ferramentas BIM:** Desenvolvimento contínuo de plugins comerciais e internos (como ARQ Flow) para automação e compatibilização em Revit/Navisworks.
