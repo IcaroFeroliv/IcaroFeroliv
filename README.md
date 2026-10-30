@@ -98,8 +98,9 @@ Plataforma full-stack para monitoramento do consumo de água residencial e comer
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=IcaroFeroliv&show_icons=true&theme=tokyonight&hide_border=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroFeroliv&layout=compact&theme=tokyonight&hide_border=true)
+![Seguidores](https://img.shields.io/github/followers/IcaroFeroliv?style=for-the-badge&logo=github&label=Seguidores)
+![Estrelas no ClashWorks](https://img.shields.io/github/stars/IcaroFeroliv/ClashWorks?style=for-the-badge&logo=github&label=Estrelas%20ClashWorks)
+![Último commit](https://img.shields.io/github/last-commit/IcaroFeroliv/GiroCarERP?style=for-the-badge&logo=git&label=%C3%9Altimo%20commit)
 
 </div>
 
